@@ -1,0 +1,13 @@
+{
+  // Disable built-in Prettier
+  // "prettier": {
+  //     "allowed": false
+  // },
+  // Use custom Prettier
+  // "formatter": {
+  //   "external": {
+  //     "command": "npx",
+  //     "arguments": ["prettier", "--stdin-filepath", "{buffer_path}"]
+  //   }
+  // }
+}
